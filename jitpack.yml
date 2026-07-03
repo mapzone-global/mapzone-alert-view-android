@@ -1,0 +1,2 @@
+install:
+  - mvn install:install-file -Dfile=mapzone-alert-view-sdk-0.0.1.aar -DgroupId=com.mapzone.android -DartifactId=mapzone-alert-view -Dversion=0.0.1 -Dpackaging=aar -DpomFile=pom.xml
