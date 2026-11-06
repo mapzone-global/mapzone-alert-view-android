@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mapzone.android</groupId>
     <artifactId>mapzone-alert-view</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <name>mapzone-alert-view</name>
     <packaging>aar</packaging>
 
